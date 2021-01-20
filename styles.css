@@ -1,0 +1,97 @@
+h1 {
+    font-family: Fredoka One;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 {
+    color: White;
+}
+
+p {
+    font-family: Comfortaa;
+}
+
+p {
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+}
+
+p {
+    color: #fff8fa;
+}
+
+h2 {
+    font-family: Fredoka One;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h2 {
+    color: White;
+}
+
+ol {
+    font-family: Comfortaa;
+}
+
+ol {
+    font-size: 17px;
+}
+
+ol {
+    color: #fff8fa;
+}
+
+body {
+    background: linear-gradient(-45deg, #76D7C4, #85C1E9, #C39BD3, #F56E6E, #F56E6E);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+.appa {
+    display: block;
+    margin-bottom: auto;
+    width: 200px;
+}
+h3{
+    font-size:17px;
+    font-family:Comfortaa;
+    color: white;
+}
